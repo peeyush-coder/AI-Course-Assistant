@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>AI Course Assistant</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
+
+</head>
+
+<body class="dark-mode">
+
+<nav class="navbar navbar-expand-lg glass-nav">
+    <div class="container">
+
+        <a class="navbar-brand fw-bold">🚀 AI Course Assistant</a>
+
+        <div class="ms-auto d-flex gap-3">
+            <a href="/" class="btn btn-outline-light btn-sm">Home</a>
+            <a href="/upload-faq" class="btn btn-outline-light btn-sm">Upload FAQ</a>
+
+            <button id="themeToggle" class="btn btn-warning btn-sm">
+                🌙
+            </button>
+        </div>
+
+    </div>
+</nav>
+
+<div class="container-fluid mt-4">
+    {% block content %}{% endblock %}
+</div>
+
+<script src="{{url_for('static',filename='js/script.js')}}"></script>
+</body>
+</html>

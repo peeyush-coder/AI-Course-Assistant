@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="app">
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <h4>🤖 AI Assistant</h4>
+
+        <button class="new-chat">+ New Chat</button>
+
+        <div class="suggested">
+            <p>Suggested</p>
+            <ul>
+                <li onclick="fillQuestion(this)">Data Science</li>
+                <li onclick="fillQuestion(this)">Fees</li>
+                <li onclick="fillQuestion(this)">Placement</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Chat -->
+    <div class="main">
+
+        <div class="chat-header">
+            <h2>💬 Ask Anything</h2>
+        </div>
+
+        <div id="messages" class="chat-area"></div>
+
+        <div class="chat-input">
+            <input id="question" placeholder="Ask something...">
+            <button id="voice">🎤</button>
+            <button id="send">➤</button>
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

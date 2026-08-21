@@ -1,0 +1,502 @@
+[
+  {
+    "id": "1",
+    "question": "What is the duration of the Data Analytics course?",
+    "answer": "The course duration is 6 months, including a 1-month capstone project."
+  },
+  {
+    "id": "2",
+    "question": "What are the total course fees?",
+    "answer": "The total fee is ₹75,000 (inclusive of taxes)."
+  },
+  {
+    "id": "3",
+    "question": "Do you provide placement support?",
+    "answer": "Yes, we provide 100% placement assistance and interview prep."
+  },
+  {
+    "id": "4",
+    "question": "Is this course available online or offline?",
+    "answer": "We offer both: interactive live online sessions and in-person classroom training."
+  },
+  {
+    "id": "5",
+    "question": "What is the difference between Data Science and Data Analytics?",
+    "answer": "Data Analytics focuses on processing and performing statistical analysis on existing datasets, while Data Science often involves building predictive models."
+  },
+  {
+    "id": "6",
+    "question": "How many hours a week do I need to commit?",
+    "answer": "We recommend at least 10–12 hours per week for classes and self-study."
+  },
+  {
+    "id": "7",
+    "question": "Can I attend a demo session before enrolling?",
+    "answer": "Yes, we host free demo workshops every Saturday."
+  },
+  {
+    "id": "8",
+    "question": "Is the course beginner-friendly?",
+    "answer": "Absolutely. We start from the basics of Excel and Statistics."
+  },
+  {
+    "id": "9",
+    "question": "What is the batch size?",
+    "answer": "To ensure personalized attention, we keep batches limited to 25 students."
+  },
+  {
+    "id": "10",
+    "question": "Are the classes on weekdays or weekends?",
+    "answer": "We offer both weekday morning/evening batches and weekend-only batches."
+  },
+  {
+    "id": "11",
+    "question": "Will I get a certificate upon completion?",
+    "answer": "Yes, you will receive an industry-recognized Data Analytics Certification."
+  },
+  {
+    "id": "12",
+    "question": "What is the language of instruction?",
+    "answer": "The primary language of instruction is English."
+  },
+  {
+    "id": "13",
+    "question": "Do you offer an EMI option?",
+    "answer": "Yes, we offer No-Cost EMI options for 6 to 12 months."
+  },
+  {
+    "id": "14",
+    "question": "Is there an initial registration fee?",
+    "answer": "Yes, a booking amount of ₹5,000 is required to secure your seat."
+  },
+  {
+    "id": "15",
+    "question": "Are there any discounts for early birds?",
+    "answer": "Yes, we offer a 10% discount for registrations done 15 days before the batch starts."
+  },
+  {
+    "id": "16",
+    "question": "Do you offer scholarships?",
+    "answer": "We offer merit-based scholarships up to 25% based on an entrance test."
+  },
+  {
+    "id": "17",
+    "question": "Is the fee refundable if I drop out?",
+    "answer": "Fees are refundable (minus admin charges) within the first week of the course."
+  },
+  {
+    "id": "18",
+    "question": "Does the fee include exam charges?",
+    "answer": "Yes, the fee covers all internal assessments and the final certification."
+  },
+  {
+    "id": "19",
+    "question": "Are there extra charges for study materials?",
+    "answer": "No, all digital books, datasets, and software guides are included."
+  },
+  {
+    "id": "20",
+    "question": "Can I pay the fee in installments?",
+    "answer": "Yes, you can pay in three equal monthly installments."
+  },
+  {
+    "id": "21",
+    "question": "Do you accept credit/debit card payments?",
+    "answer": "Yes, we accept all major cards, UPI, and net banking."
+  },
+  {
+    "id": "22",
+    "question": "What tools will I learn?",
+    "answer": "You will learn Excel, SQL, Python, Tableau, and Power BI."
+  },
+  {
+    "id": "23",
+    "question": "Will I learn Python programming?",
+    "answer": "Yes, we cover Python libraries like Pandas, NumPy, and Matplotlib."
+  },
+  {
+    "id": "24",
+    "question": "Is Advanced Excel part of the curriculum?",
+    "answer": "Yes, it covers everything from Pivot Tables to VBA macros."
+  },
+  {
+    "id": "25",
+    "question": "Do you teach Tableau or Power BI?",
+    "answer": "We teach both as they are the industry leaders in data visualization."
+  },
+  {
+    "id": "26",
+    "question": "Will I learn Statistics?",
+    "answer": "Yes, Descriptive and Inferential Statistics are core parts of the module."
+  },
+  {
+    "id": "27",
+    "question": "Is SQL necessary for Data Analytics?",
+    "answer": "Yes, SQL is essential for database management, and we cover it extensively."
+  },
+  {
+    "id": "28",
+    "question": "Do you cover Machine Learning?",
+    "answer": "We cover basic ML concepts like Linear and Logistic Regression."
+  },
+  {
+    "id": "29",
+    "question": "Is there a focus on Big Data?",
+    "answer": "We provide an introductory module on Big Data concepts and Hadoop."
+  },
+  {
+    "id": "30",
+    "question": "Will I learn how to clean data?",
+    "answer": "Yes, Data Wrangling is a major part of the Python and Excel modules."
+  },
+  {
+    "id": "31",
+    "question": "Do we get access to recorded sessions?",
+    "answer": "Yes, all live sessions are recorded and available on our LMS for lifetime access."
+  },
+  {
+    "id": "32",
+    "question": "Do I need a coding background?",
+    "answer": "No, we teach coding from scratch."
+  },
+  {
+    "id": "33",
+    "question": "What is the minimum educational qualification?",
+    "answer": "A graduation degree in any stream is required."
+  },
+  {
+    "id": "34",
+    "question": "Can a commerce/arts student join?",
+    "answer": "Yes, students from all backgrounds can transition into data analytics."
+  },
+  {
+    "id": "35",
+    "question": "Is there an age limit?",
+    "answer": "No, anyone looking to upskill or switch careers is welcome."
+  },
+  {
+    "id": "36",
+    "question": "Do I need a high-end laptop?",
+    "answer": "A laptop with 8GB RAM and an i5 processor is usually sufficient."
+  },
+  {
+    "id": "37",
+    "question": "Is math mandatory?",
+    "answer": "Basic high-school math is helpful; we teach the specific statistics needed."
+  },
+  {
+    "id": "38",
+    "question": "Can working professionals join?",
+    "answer": "Yes, our weekend batches are specifically designed for working professionals."
+  },
+  {
+    "id": "39",
+    "question": "I have a career gap; can I still apply?",
+    "answer": "Yes, we help you bridge the gap with project-based experience."
+  },
+  {
+    "id": "40",
+    "question": "Is the course suitable for final-year students?",
+    "answer": "Yes, it is a great way to get job-ready before you graduate."
+  },
+  {
+    "id": "41",
+    "question": "Do I need to know English fluently?",
+    "answer": "Basic communication skills are required for the workplace and interviews."
+  },
+  {
+    "id": "42",
+    "question": "What is the average salary after this course?",
+    "answer": "Freshers typically start between ₹4 LPA to ₹7 LPA depending on skills."
+  },
+  {
+    "id": "43",
+    "question": "Which companies hire from your institute?",
+    "answer": "Our alumni work at firms like Amazon, Deloitte, TCS, and various startups."
+  },
+  {
+    "id": "44",
+    "question": "Do you help with resume building?",
+    "answer": "Yes, we have dedicated workshops for resume and LinkedIn optimization."
+  },
+  {
+    "id": "45",
+    "question": "Do you conduct mock interviews?",
+    "answer": "Yes, we conduct multiple rounds of technical and HR mock interviews."
+  },
+  {
+    "id": "46",
+    "question": "Will I get a job as a Data Scientist or Analyst?",
+    "answer": "This course targets Data Analyst, Business Analyst, and MIS roles."
+  },
+  {
+    "id": "47",
+    "question": "Is the placement guaranteed?",
+    "answer": "We offer 100% assistance; final selection depends on your performance."
+  },
+  {
+    "id": "48",
+    "question": "Do you provide internships?",
+    "answer": "We help students secure 3-month internships after the course."
+  },
+  {
+    "id": "49",
+    "question": "What if I don't get placed in the first attempt?",
+    "answer": "We continue to provide interview opportunities until you are placed."
+  },
+  {
+    "id": "50",
+    "question": "Do you help with job applications?",
+    "answer": "Yes, our placement cell shares exclusive job openings weekly."
+  },
+  {
+    "id": "51",
+    "question": "Are there any real-world projects?",
+    "answer": "Yes, you will complete 5+ industry projects and one major capstone."
+  },
+  {
+    "id": "52",
+    "question": "What is a Capstone project?",
+    "answer": "It is a final project where you solve a real business problem using all tools learned."
+  },
+  {
+    "id": "53",
+    "question": "Do I get to work with real datasets?",
+    "answer": "Yes, we use datasets from Kaggle, UCI, and our industry partners."
+  },
+  {
+    "id": "54",
+    "question": "Is there a lab for practice?",
+    "answer": "Yes, we have a physical lab and remote access for online students."
+  },
+  {
+    "id": "55",
+    "question": "Can I add these projects to my portfolio?",
+    "answer": "Yes, we help you host them on GitHub to showcase to employers."
+  },
+  {
+    "id": "56",
+    "question": "Do you provide a certificate for the project?",
+    "answer": "Project completion is verified and mentioned in your final certificate."
+  },
+  {
+    "id": "57",
+    "question": "Is there peer-to-peer learning?",
+    "answer": "Yes, we encourage group projects and have a dedicated Discord community."
+  },
+  {
+    "id": "58",
+    "question": "How are assignments graded?",
+    "answer": "Mentors review every assignment and provide personalized feedback."
+  },
+  {
+    "id": "59",
+    "question": "Can I work on a project of my own choice?",
+    "answer": "Yes, mentors will guide you if you want to analyze specific niche data."
+  },
+  {
+    "id": "60",
+    "question": "Do you teach how to present data to stakeholders?",
+    "answer": "Yes, data storytelling is a key part of the communication module."
+  },
+  {
+    "id": "61",
+    "question": "How long will I have access to the LMS?",
+    "answer": "You will have lifetime access to the Learning Management System."
+  },
+  {
+    "id": "62",
+    "question": "What if I miss a live class?",
+    "answer": "You can watch the recording or attend the topic in another batch."
+  },
+  {
+    "id": "63",
+    "question": "How do I resolve my doubts?",
+    "answer": "We have daily doubt-clearing sessions and a 24/7 support forum."
+  },
+  {
+    "id": "64",
+    "question": "Do you provide software installation help?",
+    "answer": "Yes, our technical team helps you set up Python, SQL, and BI tools."
+  },
+  {
+    "id": "65",
+    "question": "Is the course content updated?",
+    "answer": "Yes, we update our curriculum every 6 months to match trends."
+  },
+  {
+    "id": "66",
+    "question": "Can I access the course on my mobile?",
+    "answer": "Yes, our LMS platform is fully mobile-friendly."
+  },
+  {
+    "id": "67",
+    "question": "Is there any cloud access for computing?",
+    "answer": "We teach you how to use Google Colab for cloud-based Python analysis."
+  },
+  {
+    "id": "68",
+    "question": "Do you provide hard copies of books?",
+    "answer": "We provide comprehensive digital handbooks and study materials."
+  },
+  {
+    "id": "69",
+    "question": "Can I pause my course if I have an emergency?",
+    "answer": "Yes, you can freeze your enrollment and resume with a later batch."
+  },
+  {
+    "id": "70",
+    "question": "Is there a student community?",
+    "answer": "Yes, you join an active alumni network of 5,000+ professionals."
+  },
+  {
+    "id": "71",
+    "question": "Can I move to Data Science after this?",
+    "answer": "Yes, this course provides the perfect foundation for advanced data science."
+  },
+  {
+    "id": "72",
+    "question": "Do you help with global certifications?",
+    "answer": "Yes, we help prepare for Microsoft PL-300 and Tableau certifications."
+  },
+  {
+    "id": "73",
+    "question": "Will I learn how to use AI in Analytics?",
+    "answer": "Yes, we include a module on using ChatGPT and AI for data coding."
+  },
+  {
+    "id": "74",
+    "question": "Is there any alumni meet?",
+    "answer": "Yes, we host annual networking events for our previous students."
+  },
+  {
+    "id": "75",
+    "question": "Do you offer a master's program?",
+    "answer": "We have an Advanced Data Science program for those looking to level up."
+  },
+  {
+    "id": "76",
+    "question": "Can I come back for a refresher?",
+    "answer": "Yes, alumni can attend refresher sessions on updated tools for free."
+  },
+  {
+    "id": "77",
+    "question": "Do you help with freelancing?",
+    "answer": "We have a module on finding data analytics gigs on Upwork and Fiverr."
+  },
+  {
+    "id": "78",
+    "question": "Is the certificate valid internationally?",
+    "answer": "Yes, our certification is recognized by global MNCs."
+  },
+  {
+    "id": "79",
+    "question": "How do I verify my certificate?",
+    "answer": "Each certificate has a unique QR code for online verification."
+  },
+  {
+    "id": "80",
+    "question": "Does the course cover Google Analytics?",
+    "answer": "We provide a bonus module on Web Analytics (GA4)."
+  },
+  {
+    "id": "81",
+    "question": "Can I switch from online to offline?",
+    "answer": "Yes, subject to seat availability in the physical classroom."
+  },
+  {
+    "id": "82",
+    "question": "Do you provide reference materials for interviews?",
+    "answer": "Yes, we provide a Question Bank of 500+ interview questions."
+  },
+  {
+    "id": "83",
+    "question": "Who are the trainers?",
+    "answer": "Our trainers are industry experts with 10+ years of experience."
+  },
+  {
+    "id": "84",
+    "question": "Is there a coding exam for certification?",
+    "answer": "Yes, there is a final assessment involving a coding test and project."
+  },
+  {
+    "id": "85",
+    "question": "Do you teach R programming?",
+    "answer": "Our focus is Python, but we provide R basics on request."
+  },
+  {
+    "id": "86",
+    "question": "What is the success rate of your students?",
+    "answer": "Over 85% of our students successfully transition into data roles."
+  },
+  {
+    "id": "87",
+    "question": "Are there any hidden charges?",
+    "answer": "No, the fee quoted is all-inclusive of taxes and materials."
+  },
+  {
+    "id": "88",
+    "question": "Do you provide personality development?",
+    "answer": "Yes, we include soft skills and business communication modules."
+  },
+  {
+    "id": "89",
+    "question": "Is the curriculum industry-aligned?",
+    "answer": "Yes, it is designed with input from senior analysts at top firms."
+  },
+  {
+    "id": "90",
+    "question": "Can I pay via company sponsorship?",
+    "answer": "Yes, we provide GST invoices for corporate reimbursements."
+  },
+  {
+    "id": "91",
+    "question": "Do you offer a referral bonus?",
+    "answer": "Yes, both the referrer and the new student receive a discount."
+  },
+  {
+    "id": "92",
+    "question": "Is attendance mandatory?",
+    "answer": "75% attendance is required to qualify for placement assistance."
+  },
+  {
+    "id": "93",
+    "question": "Do you cover ETL processes?",
+    "answer": "Yes, we cover the basics of Extract, Transform, and Load (ETL)."
+  },
+  {
+    "id": "94",
+    "question": "Is there a focus on specific industries?",
+    "answer": "We use case studies from Finance, Healthcare, Retail, and Tech."
+  },
+  {
+    "id": "95",
+    "question": "What is the difference between Data and Business Analysts?",
+    "answer": "Data Analysts focus on data itself; Business Analysts focus on business impacts."
+  },
+  {
+    "id": "96",
+    "question": "Can I get a letter of recommendation?",
+    "answer": "Top-performing students can receive a LOR from lead trainers."
+  },
+  {
+    "id": "97",
+    "question": "Do you offer one-on-one mentoring?",
+    "answer": "Yes, you can schedule 1:1 sessions for career and project guidance."
+  },
+  {
+    "id": "98",
+    "question": "What is the refund processing time?",
+    "answer": "Refunds are processed within 7–10 working days."
+  },
+  {
+    "id": "99",
+    "question": "How do I enroll?",
+    "answer": "You can enroll via our website or visit our office for registration."
+  },
+  {
+    "id": "100",
+    "question": "When is the next batch starting?",
+    "answer": "Our next batch begins on the first Monday of every month."
+  }
+]
